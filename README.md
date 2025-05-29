@@ -1,4 +1,5 @@
-![Uploading LKMHCstablepan.png…]()
+
+![LKMHCstablepan](https://github.com/user-attachments/assets/4ba8a39e-d761-47e9-819b-28d2c7619371)
 
 # LKMHCstablepan
 
