@@ -1,3 +1,5 @@
+![Uploading LKMHCstablepan.png…]()
+
 # LKMHCstablepan
 
 ## **LKMHCstablepan: A Hybrid RNN-CNN Model for pMHC Stability Prediction**
